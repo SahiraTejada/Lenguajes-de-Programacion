@@ -2,6 +2,7 @@
 Asignación de la Materia IDS347-1-TENDENCIAS EN DESARROLLO DE SOFTWARE
 
 ## 1. Propósito:
+Elixir is a dynamic, functional language for building scalable and maintainable applications.
 - general
 - especifico, etc.
 ---
