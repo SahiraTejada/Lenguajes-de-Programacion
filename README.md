@@ -44,6 +44,7 @@ Elixir is a compiled language, but when you work with it - it behaves like inter
 - MacOS/OSX
 - Linux
 - Microsoft Windows
+- Mas que el sisitema operaivo
 ---
 ## 8. Usuarios notables: 
 - ### **Discord** ###  
