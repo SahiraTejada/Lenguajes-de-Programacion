@@ -3,8 +3,7 @@ Asignación de la Materia IDS347-1-TENDENCIAS EN DESARROLLO DE SOFTWARE
 
 ## 1. Propósito:
 Elixir is a dynamic, functional language for building scalable and maintainable applications.
-- general
-- especifico, etc.
+
 ---
 ## 2. Paradigma: OO, FP, Proc, Logico, etc. ##
 
@@ -13,28 +12,27 @@ Process-oriented programming
 ---
 ## 3. Fortalezas 
 
-Speed
-Reliability
-Concurrency
-Productivity
-Fault tolerance
-Scalability
-Clean syntax
+- Speed
+- Reliability
+- Concurrency
+- Productivity
+- Fault tolerance
+- Scalability
+- Clean syntax
 
 ---
 ## 4. Debilidades
 
-Smaller amount of Elixir programming jobs
-Lack of Elixir developers
-Elixir is a young programming language
-Smaller community
-Smaller ecosystem
-Knowledge of Erlang required
+- Smaller amount of Elixir programming jobs
+- Lack of Elixir developers
+- Elixir is a young programming language
+- Smaller community
+- Smaller ecosystem
+- Knowledge of Erlang required
 
 ---
 ## 5. Implementación: 
-compiled language
-Elixir is a compiled language, but when you work with it - it behaves like interpreted language
+Elixir is a compiled language, but when you work with it behaves like interpreted language
 
 ---
 ## 6. Runtime / Maquina Virtual
