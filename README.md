@@ -62,7 +62,6 @@ You are using Elixir to build a client/cloud application for collaborative photo
 
 ---
 ## 9. Story
-Creators, 1st release (version and date), Latest release (version and date)
 José Valim is the creator of the Elixir programming language, a research and development project created at Platformec. His goals for him were to enable greater extensibility and productivity in the Erlang virtual machine while maintaining compatibility with the Erlang ecosystem. Elixir was designed to handle large volumes of data. Its speed and capabilities spread Elixir in the telecommunications, e-commerce and finance industries. Taking inspiration from other languages such as Ruby, Clojure, and Haskell, Valim combined the power and resiliency of Erlang with a friendlier syntax that is more accessible to developers trained in Ruby, Python, and the like. On Thursday, April 7 2022, Elixir was born. Like Erlang, Elixir can handle millions of simultaneous connections, making it perfect for communications. For example, gaming chat app Discord has relied on Elixir to support five million users at a time.
 
 The latest stable version of Elixir June 4, 2022.
